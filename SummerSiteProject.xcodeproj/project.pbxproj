@@ -20,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		930C49E0295E1FD0008EB698 /* InfrastructurePackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = InfrastructurePackage; path = ../InfrastructurePackage; sourceTree = "<group>"; };
 		93166373295627EC00100536 /* SummerSiteProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SummerSiteProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93166376295627EC00100536 /* SummerSiteProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummerSiteProjectApp.swift; sourceTree = "<group>"; };
 		93166378295627EC00100536 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -33,7 +34,6 @@
 		932815ED295CD5A1004F8ABC /* Work.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Work.swift; sourceTree = "<group>"; };
 		93454D782958B0A700556C35 /* SummerAppPackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = SummerAppPackage; path = ../SummerAppPackage; sourceTree = "<group>"; };
 		93454D7F2958BC6300556C35 /* UIComponentsPackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = UIComponentsPackage; path = ../UIComponentsPackage; sourceTree = "<group>"; };
-		93454D832958BD2500556C35 /* InfrastructurePackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = InfrastructurePackage; sourceTree = "<group>"; };
 		9355C5AC2958A61F008D2B91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -121,7 +121,7 @@
 			children = (
 				93454D782958B0A700556C35 /* SummerAppPackage */,
 				93454D7F2958BC6300556C35 /* UIComponentsPackage */,
-				93454D832958BD2500556C35 /* InfrastructurePackage */,
+				930C49E0295E1FD0008EB698 /* InfrastructurePackage */,
 			);
 			name = Packages;
 			sourceTree = "<group>";
